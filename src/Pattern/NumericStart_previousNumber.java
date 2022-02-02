@@ -4,6 +4,16 @@ import java.util.Scanner;
 
 public class NumericStart_previousNumber {
 
+//           Input: any intigier number
+//            ex :- 1
+
+//           Output
+//            1
+//            32
+//            654
+//            10987
+//            1514131211
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();
